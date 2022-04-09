@@ -1,10 +1,10 @@
-### Ola, Eu sou o Leonardo Oliveira Lacana 👋
+### Ola, Eu sou o Leonardo Lacana 👋
 
 ##
 
 <div align="center">
   <a href="https://github.com/LeoLacana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoLacana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoLacana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLacana&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
